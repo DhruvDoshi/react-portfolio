@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-portfolio"]=this["webpackJsonpreact-portfolio"]||[]).push([[4],{99:function(t,e,i){"use strict";i.r(e);i(3);var c=i(2);e.default=function(t){return Object(c.jsx)("div",{className:"d-flex justify-content-center align-items-center m-2 icon-card",children:Object(c.jsx)("img",{className:"img-fluid skills-img",src:t.src,alt:t.label,title:t.label,loading:"lazy"})})}}}]);
+//# sourceMappingURL=4.19d1daf7.chunk.js.map
